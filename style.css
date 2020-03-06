@@ -1,0 +1,13 @@
+body{
+    background: url('dua.jpg');
+    color: #fff;
+}
+
+#text{
+    color:yellow;
+}
+
+#animasi{
+    margin-left: 600px;
+    width: 10%;
+}
